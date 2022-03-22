@@ -24,7 +24,7 @@
 
 也可以去第三方网站直接下载插件安装进浏览器 后缀名分别为 .crx / .xpi
 
-<!-- <details> -->
+<details>
 <summary>如何给浏览器安装第三方插件</summary>
 
 Edge 浏览器安装第三方插件比较简单
@@ -32,15 +32,15 @@ Edge 浏览器安装第三方插件比较简单
 - 打开扩展程序页面 [edge://extensions](edge://extensions/) [chrome://extensions](chrome://extensions)
 - 或是通过点击浏览器右上角退出下面的  **设置与其他** - **扩展**- **管理扩展** 打开
 
-![Settings and others](photo/Settings/Settings-and-others-Browser-Extensions.png#gh-light-mode-only)
-![Settings and others](photo/Settings/Settings-and-others-Browser-Extensions-dark.png#gh-dark-mode-only)
-![Settings and others](photo/Settings/Settings-and-others-Browser-Extensions2-manage.png#gh-light-mode-only)
-![Settings and others](photo/Settings/Settings-and-others-Browser-Extensions2-manage-dark.png#gh-dark-mode-only)
+![Settings and others](Photo/Settings/Settings-and-others-Browser-Extensions.png#gh-light-mode-only)
+![Settings and others](Photo/Settings/Settings-and-others-Browser-Extensions-dark.png#gh-dark-mode-only)
+![Settings and others](Photo/Settings/Settings-and-others-Browser-Extensions2-manage.png#gh-light-mode-only)
+![Settings and others](Photo/Settings/Settings-and-others-Browser-Extensions2-manage-dark.png#gh-dark-mode-only)
 - 打开 `开发人员模式` 和 `允许来自其他应用商店的扩展`
   
 
-![Settings and others](photo/Settings/Settings-and-others-Browser-Extensions-Dev.png#gh-light-mode-only)
-![Settings and others](photo/Settings/Settings-and-others-Browser-Extensions-Dev-dark.png#gh-dark-mode-only)
+![Settings and others](Photo/Settings/Settings-and-others-Browser-Extensions-Dev.png#gh-light-mode-only)
+![Settings and others](Photo/Settings/Settings-and-others-Browser-Extensions-Dev-dark.png#gh-dark-mode-only)
 
 - 将 .crx 文件**直接拖入扩展页面**即可安装
 
