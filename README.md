@@ -63,4 +63,6 @@ Chrome 安装第三方扩展或者 Edge 的另一种安装方式
 
 ## [浏览器插件推荐](Docs/Browser%20Extensions%20recommend.md)
 
+我认为比较有用的插件推荐
+
 [回到目录](#浏览器插件指南)
