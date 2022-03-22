@@ -13,25 +13,27 @@
     - [Adblock Plus](#adblock-plus)
     - [AdBlock](#adblock)
 
+同类软件装一个就好,多了不仅更消耗电脑资源,而且还有互相冲突的可能
+
 ## 脚本管理器
 
 要使用用户脚本，您首先需要安装一个用户脚本管理器。您可以根据当前使用的浏览器来选择一个用户脚本管理器：
 
-Chrome: Tampermonkey 或 Violentmonkey
+**Chrome:** Tampermonkey 或 Violentmonkey
 
-Firefox: Greasemonkey、Tampermonkey 或 Violentmonkey
+**Firefox:** Greasemonkey、Tampermonkey 或 Violentmonkey
 
-Safari: Tampermonkey 或 Userscripts
+**Safari:** Tampermonkey 或 Userscripts
 
-Microsoft edge: Tampermonkey
+**Microsoft edge:** Tampermonkey
 
-Opera: Tampermonkey 或 Violentmonkey
+**Opera:** Tampermonkey 或 Violentmonkey
 
-Maxthon: Violentmonkey
+**Maxthon:** Violentmonkey
 
-Dolphin: Tampermonkey
+**Dolphin:** Tampermonkey
 
-UC: Tampermonkey
+**UC:** Tampermonkey
 
 ### [Tampermonkey 油猴](https://www.tampermonkey.net/)
 
@@ -54,13 +56,13 @@ UC: Tampermonkey
 
 >暴力猴插件是一款和油猴插件齐名的浏览器插件,它同样可以帮助用户们去安装和管理游览器上的各类插件
 >
->Violentmonkey 浏览器油猴插件，与 Tampermonkey 齐名，中文译名“暴力猴”，支持Userscripts.org、GreasyFork、OpenUserJS三大脚本下载源
+>Violentmonkey 浏览器油猴插件，与 Tampermonkey 齐名，中文译名“暴力猴”，支持 Userscripts.org、GreasyFork、OpenUserJS三大脚本下载源
 
 ### [Greasemonkey 油猴子](https://www.greasespot.net/)
 
 火狐用户可用 Greasemonkey 获得更好的体验
 
- >Greasemonkey官方版是火狐浏览器的一款实用的脚本插件,Greasemonkey官方版软件也是最能体现火狐可定制性的强大的扩展之一,国内用户喜欢称其为“油猴子”
+ >Greasemonkey 官方版是火狐浏览器的一款实用的脚本插件,Greasemonkey 官方版软件也是最能体现火狐可定制性的强大的扩展之一,国内用户喜欢称其为“油猴子”
 
 ---
 
@@ -94,6 +96,8 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 [![Chrome 网上应用店](/Photo/Badge/chrome.png)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 [![Firefox 附加组件](/Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/)
 [![Opera](/Photo/Badge/opera.png)](https://addons.opera.com/extensions/details/ublock/)
+
+>不要将 uBlock Origin 与其他类似用途的阻止程序一起使用。
 
 <!-- 
 <p align="center">
@@ -134,12 +138,13 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 
 >从世界上最流行的广告拦截扩展Adblock Plus下载适用于Microsoft Edge的Adblock Plus。它是免费的、开源的。提高在线体验的质量，获得更多控制！
 
-https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh
+[![Edge 外接程序 BETA](/Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh
+)
 
 ### AdBlock
 
 >AdBlock — 最佳广告拦截工具，可以拦截 YouTube、Facebook、Twitch 以及所有您喜爱的网站上的烦人广告和弹窗。
 
-https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog
+[![Edge 外接程序 BETA](/Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog)
 
 [回到目录](/README.md)
