@@ -15,6 +15,9 @@
 [![Edge 外接程序 BETA](/Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
 [![Chrome 网上应用店](/Photo/Badge/chrome.png)](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
 [![Firefox 附加组件](/Photo/Badge/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+[![Opera](/Photo/Badge/opera.png)](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
+
+---
 
 ## 广告屏蔽插件
 
@@ -26,9 +29,9 @@
 
 在同类软件中消耗的`cpu`和`内存`最少,效率最高
 
-可以云同步所有广告规则,还能直接通过订阅链接获取别人的广告屏蔽规则
+可以云同步所有广告规则,能直接通过订阅链接获取别人的广告屏蔽规则
 
-推荐订阅规则:`扩展设置` `规则列表` `自定义` `导入`
+推荐订阅规则:`扩展设置`-`规则列表`-`自定义`-`导入`
 
 EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 
@@ -36,6 +39,14 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 
 乘风 广告过滤规则:`https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt`
 
+安装地址：
+
+[![Edge 外接程序 BETA](/Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+[![Chrome 网上应用店](/Photo/Badge/chrome.png)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+[![Firefox 附加组件](/Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/)
+[![Opera](/Photo/Badge/opera.png)](https://addons.opera.com/extensions/details/ublock/)
+
+<!-- 
 <p align="center">
 下载链接
 <p align="center">
@@ -44,7 +55,8 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 <a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get uBlock Origin for Microsoft Edge"></a>
 <a href="https://addons.opera.com/extensions/details/ublock/"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get uBlock Origin for Opera"></a>
       <br><sub>Do <b>not</b> use uBlock Origin along with other similarly-purposed blockers</a>.</sub>
-</p>
+</p> -->
+
 
 ---
 
@@ -62,12 +74,23 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 
 与浏览器广告拦截器不同，AdGuard 是在广告加载到浏览器之前就拦截了它们。这不仅可以节省流量，而且也让页面更快载入。
 
+安装地址：
+
+[![Edge 外接程序 BETA](/Photo/Badge/edge.png)](https://agrd.io/extension_edge)
+[![Chrome 网上应用店](/Photo/Badge/chrome.png)](https://agrd.io/extension_chrome)
+[![Firefox 附加组件](/Photo/Badge/firefox.png)](https://agrd.io/extension_firefox)
+[![Opera](/Photo/Badge/opera.png)](https://agrd.io/extension_opera)
+
 ### Adblock Plus
 
 >从世界上最流行的广告拦截扩展Adblock Plus下载适用于Microsoft Edge的Adblock Plus。它是免费的、开源的。提高在线体验的质量，获得更多控制！
 
+https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh
+
 ### AdBlock
 
 >AdBlock — 最佳广告拦截工具，可以拦截 YouTube、Facebook、Twitch 以及所有您喜爱的网站上的烦人广告和弹窗。
+
+https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog
 
 [回到目录](/README.md)
