@@ -72,6 +72,8 @@
 
 不要安装多个同类的插件
 
+有些网站，能检测出来你使用了广告屏蔽插件，导致内容无法观看，特别是有一些视频网站，毕竟广告是这种网站核心收入，所以使用广告屏蔽软件会导致无法观看，这个时候关闭广告屏蔽插件就行了。
+
 ### [uBlock Origin](https://github.com/gorhill/uBlock)
 
 [开源地址](https://github.com/gorhill/uBlock)
