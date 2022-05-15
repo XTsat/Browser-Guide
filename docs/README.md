@@ -9,7 +9,7 @@ actions:
     link: /document/
     type: primary
   - text: 扩展
-    link: /Extensions/What is.md
+    link: /Extensions/Start/What is.md
     type: secondary
 features:
   - title: 浏览器
