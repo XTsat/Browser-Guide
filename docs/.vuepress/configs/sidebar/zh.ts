@@ -16,13 +16,15 @@ export const zh: SidebarConfig = {
       ]
     },
   ],
-
+  
   '/Extensions/': [
     {
-      text: '扩展',
+      text: '开始使用',
       collapsible: true,
       children: [
-        '/Extensions/What is.md'
+        '/Extensions/Start/What is.md',
+        '/Extensions/Start/How to install.md',
+        '/Extensions/Start/Malicious browser extensions.md',
       ]
     },
     {
