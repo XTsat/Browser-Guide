@@ -70,7 +70,7 @@ export default defineUserConfig({
     // 在这里进行配置
     // logo: '/logo/Steam++ico.svg',
     
-    repo: 'XTsat/SteamTools-Guide',
+    repo: 'XTsat/Browser-Guide',
 
     docsBranch: 'VuePress',
     docsDir: 'docs',

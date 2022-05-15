@@ -11,7 +11,7 @@ export const zh: NavbarConfig = [
   },
   {
     text: '扩展程序',
-    link: '/Extensions/What is.md',
+    link: '/Extensions/Start/What is.md',
   },
   {
     text: '关于我',
