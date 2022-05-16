@@ -1,6 +1,4 @@
-# [AdGuard](https://adguard.com/) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/AdguardTeam/AdguardBrowserExtension)
-
-![](https://camo.githubusercontent.com/209949c2599b1085e382b83307a92b7da7a43174caf8a594df80f0b003bbe95b/68747470733a2f2f63646e2e616467756172642e636f6d2f7075626c69632f416467756172642f436f6d6d6f6e2f616467756172645f657874656e73696f6e2e737667)
+# <img  src="../../../.vuepress/public/Brands/AdGuard.svg" height="30" width="30"> [AdGuard](https://adguard.com/) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/AdguardTeam/AdguardBrowserExtension)
 
 **具有高级隐私保护功能的广告拦截器**
 

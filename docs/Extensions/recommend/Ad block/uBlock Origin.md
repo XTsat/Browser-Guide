@@ -1,4 +1,4 @@
-# <img  src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png" height="38" width="38"> [uBlock Origin](https://github.com/gorhill/uBlock) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/gorhill/uBlock)
+# <img  src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png" height="30" width="30"> [uBlock Origin](https://github.com/gorhill/uBlock) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/gorhill/uBlock)
 
 [![Commit rate](https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits)](https://github.com/gorhill/uBlock/commits/master)
 [![Issues](https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues)](https://github.com/uBlockOrigin/uBlock-issues/issues)
