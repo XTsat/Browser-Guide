@@ -23,10 +23,10 @@ UC|√| |
 
 >Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。
 
-[![Edge 外接程序 BETA](../../.vuepress/public/Badge//edge.png)](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
-[![Chrome 网上应用店](../../.vuepress/public/Badge//chrome.png)](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
-[![Firefox 附加组件](../../.vuepress/public/Badge//firefox.png)](https://addons.mozilla.org/firefox/addon/tampermonkey/)
-[![Opera](../../.vuepress/public/Badge//opera.png)](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
+[![Chrome 网上应用店](../../../Photo/Badge/chrome.png)](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+[![Opera](../../../Photo/Badge/opera.png)](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 ### [Violentmonkey 暴力猴](https://violentmonkey.github.io/)
 
@@ -34,9 +34,9 @@ UC|√| |
 >
 >Violentmonkey 浏览器油猴插件，与 Tampermonkey 齐名，中文译名“暴力猴”，支持 Userscripts.org、GreasyFork、OpenUserJS三大脚本下载源
 
-[![Edge 外接程序 BETA](../../.vuepress/public/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-[![Chrome 网上应用店](../../.vuepress/public/Badge/chrome.png)](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
-[![Firefox 附加组件](../../.vuepress/public/Badge//firefox.png)](https://addons.mozilla.org/firefox/addon/violentmonkey/)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
+[![Chrome 网上应用店](../../../Photo/Badge/chrome.png)](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/violentmonkey/)
 [GitHub Releases](https://github.com/violentmonkey/violentmonkey/releases)
 
 ### [Greasemonkey 油猴子](https://www.greasespot.net/)
@@ -45,4 +45,4 @@ UC|√| |
 
  >Greasemonkey 官方版是火狐浏览器的一款实用的脚本插件,Greasemonkey 官方版软件也是最能体现火狐可定制性的强大的扩展之一,国内用户喜欢称其为“油猴子”
 
-[![Firefox 附加组件](../../.vuepress/public/Badge//firefox.png)](https://addons.mozilla.org/firefox/addon/greasemonkey/)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/greasemonkey/)

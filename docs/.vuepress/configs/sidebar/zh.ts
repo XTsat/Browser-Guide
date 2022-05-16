@@ -16,41 +16,96 @@ export const zh: SidebarConfig = {
       ]
     },
   ],
-  
+
   '/Extensions/': [
     {
       text: '开始使用',
       collapsible: true,
       children: [
-        '/Extensions/Start/What is.md',
-        '/Extensions/Start/How to install.md',
-        '/Extensions/Start/Malicious browser extensions.md',
+        '/Extensions/Guide/What is.md',
+        '/Extensions/Guide/How to install extensions.md',
+        '/Extensions/Guide/Malicious browser extensions.md',
       ]
     },
     {
-      text: '推荐',
-      collapsible: true,
+      text: '其他页面',
+      // collapsible: true,
       children: [
         '/Extensions/recommend/recommend.md',
+        // {
+        //   text: '脚本管理器',
+        //   collapsible: true,
+        //   children: [
+        //     '/Extensions/recommend/Script Manager/What is.md',
+        //     '/Extensions/recommend/Script Manager/Install Manager.md',
+        //     '/Extensions/recommend/Script Manager/Beware of malicious scripts.md',
+        //     '/Extensions/recommend/Script Manager/Install Script.md',
+        //   ]
+        // },
+        // {
+        //   text: '广告屏蔽扩展',
+        //   collapsible: true,
+        //   children: [
+        //     '/Extensions/recommend/Ad block/What is.md',
+        //     '/Extensions/recommend/Ad block/Install ad block.md',
+        //   ]
+        // },
+        // {
+        //   text: '游戏类',
+        //   collapsible: true,
+        //   children: [
+        //     '/Extensions/recommend/Game/Augmented Steam.md',
+        //     '/Extensions/recommend/Game/SteamDB.md',
+        //   ]
+        // },
+      ]
+    },
+  ],
+
+  '/Extensions/recommend/': [
+    {
+      text: '扩展推荐',
+      collapsible: true,
+      children: [
         {
-          text: '脚本管理器',
-          collapsible: true,
+          text: '页面优化',
           children: [
-            '/Extensions/Script Manager/What is.md',
-            '/Extensions/Script Manager/Install Manager.md',
-            '/Extensions/Script Manager/Beware of malicious scripts.md',
-            '/Extensions/Script Manager/Install Script.md',
+            '/Extensions/recommend/Dark Reader.md',
           ]
         },
         {
-          text: '广告屏蔽扩展',
-          collapsible: true,
+          text: '广告屏蔽',
           children: [
-            '/Extensions/recommend/Ad block/What is.md',
-            '/Extensions/recommend/Ad block/Install ad block.md',
+          ]
+        },
+        {
+          text: 'Steam 增强',
+          children: [
+            '/Extensions/recommend/Game/Augmented Steam.md',
+            '/Extensions/recommend/Game/SteamDB.md',
           ]
         },
       ]
     },
-  ]
+    {
+      text: '脚本管理器',
+      collapsible: true,
+      children: [
+        '/Extensions/recommend/Script Manager/What is.md',
+        '/Extensions/recommend/Script Manager/Install Manager.md',
+        '/Extensions/recommend/Script Manager/Beware of malicious scripts.md',
+        '/Extensions/recommend/Script Manager/Install Script.md',
+      ]
+    },
+    {
+      text: '广告屏蔽扩展',
+      collapsible: true,
+      children: [
+        '/Extensions/recommend/Ad block/What is.md',
+        '/Extensions/recommend/Ad block/What is best.md',
+        '/Extensions/recommend/Ad block/uBlock Origin.md',
+        '/Extensions/recommend/Ad block/AdGuard.md',
+      ]
+    },
+  ],
 };
