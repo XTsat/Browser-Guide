@@ -1,4 +1,4 @@
-# [SteamDB](https://steamdb.info/)
+# <img  src="../../../Photo/Brands/SteamDB.svg" height="30" width="30"> [SteamDB](https://steamdb.info/)
 
 [![chrome users](https://img.shields.io/chrome-web-store/users/kdbmhfkmnlmbkgbabkdealhhbfhlmmon?label=chrome%20users&style=for-the-badge&logo=googlechrome)](https://chrome.google.com/webstore/detail/steam-database/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
 [![firefox users](https://img.shields.io/amo/users/steam-database?label=firefox%20users&color=4c1&style=for-the-badge&logo=firefoxbrowser)](https://addons.mozilla.org/firefox/addon/steam-database/)

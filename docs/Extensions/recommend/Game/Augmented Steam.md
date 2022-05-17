@@ -2,7 +2,7 @@
 # externalLinkIcon: false
 ---
 
-# [Augmented Steam](https://augmentedsteam.com/)
+# <img  src="../../../Photo/Brands/Augmented-Steam.png" height="30" width="25"> [Augmented Steam](https://augmentedsteam.com/) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/IsThereAnyDeal/AugmentedSteam)
 
 [![Banner](../../../Photo/banner/Augmented-Steam.png)](https://augmentedsteam.com/)
 
@@ -35,6 +35,6 @@ Augmented Steam 是由 [IsThereAnyDeal](https://isthereanydeal.com/) 推出的�
 Augmented Steam 是 [Enhanced Steam](https://github.com/jshackles/Enhanced_Steam) 的分叉和精神继任者，后者已于2019年2月走到了生命尽头。
 请访问[扩展的页面](https://augmentedsteam.com/)了解更多信息。
 
-[![Chrome 网上应用店](../../../.vuepress/public/Badge/chrome.png)](https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
-[![Firefox 附加组件](../../../.vuepress/public/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/augmented-steam/)
-[![Edge 外接程序 BETA](../../../.vuepress/public/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/augmented-steam/dnpjkgmekpilchdgolfifobohlohlioc)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/augmented-steam/dnpjkgmekpilchdgolfifobohlohlioc)
+[![Chrome 网上应用店](../../../Photo/Badge/chrome.png)](https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/augmented-steam/)

@@ -22,10 +22,10 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 
 安装地址：
 
-[![Edge 外接程序 BETA](../../../.vuepress/public/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
-[![Chrome 网上应用店](../../../.vuepress/public/Badge/chrome.png)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-[![Firefox 附加组件](../../../.vuepress/public/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/)
-[![Opera](../../../.vuepress/public/Badge/opera.png)](https://addons.opera.com/extensions/details/ublock/)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+[![Chrome 网上应用店](../../../Photo/Badge/chrome.png)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/)
+[![Opera](../../../Photo/Badge/opera.png)](https://addons.opera.com/extensions/details/ublock/)
 
 >不要将 uBlock Origin 与其他类似用途的阻止程序一起使用。
 
@@ -58,20 +58,20 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 
 安装地址：
 
-[![Edge 外接程序 BETA](../../../.vuepress/public/Badge/edge.png)](https://agrd.io/extension_edge)
-[![Chrome 网上应用店](../../../.vuepress/public/Badge/chrome.png)](https://agrd.io/extension_chrome)
-[![Firefox 附加组件](../../../.vuepress/public/Badge/firefox.png)](https://agrd.io/extension_firefox)
-[![Opera](../../../.vuepress/public/Badge/opera.png)](https://agrd.io/extension_opera)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://agrd.io/extension_edge)
+[![Chrome 网上应用店](../../../Photo/Badge/chrome.png)](https://agrd.io/extension_chrome)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://agrd.io/extension_firefox)
+[![Opera](../../../Photo/Badge/opera.png)](https://agrd.io/extension_opera)
 
 ## Adblock Plus
 
 >从世界上最流行的广告拦截扩展Adblock Plus下载适用于Microsoft Edge的Adblock Plus。它是免费的、开源的。提高在线体验的质量，获得更多控制！
 
-[![Edge 外接程序 BETA](../../../.vuepress/public/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh
 )
 
 ## AdBlock
 
 >AdBlock — 最佳广告拦截工具，可以拦截 YouTube、Facebook、Twitch 以及所有您喜爱的网站上的烦人广告和弹窗。
 
-[![Edge 外接程序 BETA](../../../.vuepress/public/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/adblock-%E2%80%94-%E6%9C%80%E4%BD%B3%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%B7%A5%E5%85%B7/ndcileolkflehcjpmjnfbnaibdcgglog)

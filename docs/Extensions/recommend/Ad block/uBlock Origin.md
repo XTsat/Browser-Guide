@@ -1,4 +1,4 @@
-# <img  src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png" height="30" width="30"> [uBlock Origin](https://github.com/gorhill/uBlock) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/gorhill/uBlock)
+# <img  src="../../../Photo/Brands/uBlock-Origin.png" height="30" width="30"> [uBlock Origin](https://github.com/gorhill/uBlock) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/gorhill/uBlock)
 
 [![Commit rate](https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits)](https://github.com/gorhill/uBlock/commits/master)
 [![Issues](https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues)](https://github.com/uBlockOrigin/uBlock-issues/issues)
@@ -32,10 +32,10 @@ EasyList China:`https://easylist-downloads.adblockplus.org/easylistchina.txt`
 
 乘风 广告过滤规则:`https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt`
 
-[![Firefox 附加组件](../../../.vuepress/public/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/)
-[![Chrome 网上应用店](../../../.vuepress/public/Badge/chrome.png)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-[![Edge 外接程序 BETA](../../../.vuepress/public/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
-[![Opera](../../../.vuepress/public/Badge/opera.png)](https://addons.opera.com/extensions/details/ublock/)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+[![Chrome 网上应用店](../../../Photo/Badge/chrome.png)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://addons.mozilla.org/firefox/addon/ublock-origin/)
+[![Opera](../../../Photo/Badge/opera.png)](https://addons.opera.com/extensions/details/ublock/)
 
 ::: warning
 

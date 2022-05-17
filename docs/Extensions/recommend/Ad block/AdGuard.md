@@ -1,4 +1,4 @@
-# <img  src="../../../.vuepress/public/Brands/AdGuard.svg" height="30" width="30"> [AdGuard](https://adguard.com/) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/AdguardTeam/AdguardBrowserExtension)
+# <img  src="../../../Photo/Brands/AdGuard.svg" height="30" width="30"> [AdGuard](https://adguard.com/) [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/AdguardTeam/AdguardBrowserExtension)
 
 **具有高级隐私保护功能的广告拦截器**
 
@@ -16,7 +16,7 @@ AdGuard 是一款快速轻便的广告拦截浏览器扩展程序，可有效拦
 
 安装地址：
 
-[![Edge 外接程序 BETA](../../../.vuepress/public/Badge/edge.png)](https://agrd.io/extension_edge)
-[![Chrome 网上应用店](../../../.vuepress/public/Badge/chrome.png)](https://agrd.io/extension_chrome)
-[![Firefox 附加组件](../../../.vuepress/public/Badge/firefox.png)](https://agrd.io/extension_firefox)
-[![Opera](../../../.vuepress/public/Badge/opera.png)](https://agrd.io/extension_opera)
+[![Edge 外接程序 BETA](../../../Photo/Badge/edge.png)](https://agrd.io/extension_edge)
+[![Chrome 网上应用店](../../../Photo/Badge/chrome.png)](https://agrd.io/extension_chrome)
+[![Firefox 附加组件](../../../Photo/Badge/firefox.png)](https://agrd.io/extension_firefox)
+[![Opera](../../../Photo/Badge/opera.png)](https://agrd.io/extension_opera)

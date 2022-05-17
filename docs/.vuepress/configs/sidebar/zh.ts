@@ -68,14 +68,32 @@ export const zh: SidebarConfig = {
       collapsible: true,
       children: [
         {
-          text: '页面优化',
+          text: '网页',
           children: [
+            '/Extensions/recommend/OneTab.md',
             '/Extensions/recommend/Dark Reader.md',
+            '/Extensions/recommend/SingleFile.md',
+          ]
+        },
+        {
+          text: '图片',
+          children: [
+            '/Extensions/recommend/Image/ImageAssistant.md',
+            
+          ]
+        },
+        {
+          text: '视频',
+          children: [
+            '/Extensions/recommend/Video/pakku.md',
+            
           ]
         },
         {
           text: '广告屏蔽',
           children: [
+            '/Extensions/recommend/Ad block/uBlock Origin.md',
+            '/Extensions/recommend/Ad block/AdGuard.md',
           ]
         },
         {
