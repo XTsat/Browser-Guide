@@ -5,6 +5,7 @@ const { defaultTheme } = require('@vuepress/theme-default')
 
 const { searchPlugin } = require('@vuepress/plugin-search')
 
+
 // const isProd = process.env.NODE_ENV === 'production'
 
 export default defineUserConfig({
