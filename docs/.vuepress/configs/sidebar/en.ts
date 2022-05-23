@@ -1,6 +1,6 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
-export const zh: SidebarConfig = {
+export const en: SidebarConfig = {
   '/en/': [
     {
       text: 'HOME',
