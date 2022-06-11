@@ -27,7 +27,7 @@ export default defineUserConfig({
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: `/logo/favicon.ico`,
+        href: '/Browser-Guide/logo/microsoft-edge.svg',
       },
     ],
     // ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
@@ -69,7 +69,7 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     // 在这里进行配置
-    // logo: '/logo/Steam++ico.svg',
+    logo: '/logo/microsoft-edge.svg',
     
     repo: 'XTsat/Browser-Guide',
 
