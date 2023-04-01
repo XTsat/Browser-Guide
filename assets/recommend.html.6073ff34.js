@@ -1,0 +1,1 @@
+const e={key:"v-0b95f19c",path:"/Extensions/recommend/recommend.html",title:"\u6269\u5C55\u63A8\u8350",lang:"\u7B80\u4F53\u4E2D\u6587",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652642609e3,contributors:[{name:"XTsat",email:"xiaotong1238@gmail.com",commits:1}]},filePathRelative:"Extensions/recommend/recommend.md"};export{e as data};

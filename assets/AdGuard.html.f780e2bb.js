@@ -1,0 +1,1 @@
+const e={key:"v-8e524778",path:"/Extensions/recommend/Ad%20block/AdGuard.html",title:"AdGuard",lang:"\u7B80\u4F53\u4E2D\u6587",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652806729e3,contributors:[{name:"XTsat",email:"xiaotong1238@gmail.com",commits:3}]},filePathRelative:"Extensions/recommend/Ad block/AdGuard.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-08bb705d",path:"/Extensions/recommend/Ad%20block/What%20is.html",title:"\u6709\u4EC0\u4E48\u7528\uFF1F",lang:"\u7B80\u4F53\u4E2D\u6587",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652642609e3,contributors:[{name:"XTsat",email:"xiaotong1238@gmail.com",commits:1}]},filePathRelative:"Extensions/recommend/Ad block/What is.md"};export{t as data};

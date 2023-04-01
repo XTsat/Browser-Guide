@@ -1,0 +1,1 @@
+import{_ as e,o as t,a,b as o,e as s}from"./app.78bade5e.js";const _={},c={id:"\u4E00\u822C\u95EE\u9898",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#\u4E00\u822C\u95EE\u9898","aria-hidden":"true"},"#",-1),n=s(" \u4E00\u822C\u95EE\u9898"),d=[r,n];function h(i,f){return t(),a("h1",c,d)}var m=e(_,[["render",h],["__file","FAQ.html.vue"]]);export{m as default};
